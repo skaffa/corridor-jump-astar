@@ -1,0 +1,25 @@
+# compiled outputs
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+cja_star
+cja_star_rs
+
+# local benchmark / verification logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local toolchains and scratch files
+tools/
+.DS_Store
+Thumbs.db
+tests/.build/
+
