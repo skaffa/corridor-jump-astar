@@ -223,12 +223,8 @@ cost and node counts.
 
 ## Name
 
-**CJA\*** is the technical short name: **Corridor-Jump A\***. It is
-descriptive and paper-friendly, but `CJA` is not very searchable and the
-star is redundant with "A\*". For a repository, `corridor-jump-astar` is the
-better URL. If you want a brand rather than an acronym, **Threadline A\***
-(`threadline-astar`) is the cleanest alternative: it evokes long straight
-corridor runs and is easy to search for.
+**CJA\*** stands for **Corridor-Jump A\***. The repository is named
+`corridor-jump-astar` so the full algorithm name stays searchable.
 
 ## License
 
